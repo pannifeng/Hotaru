@@ -1,0 +1,20 @@
+{
+  "routes": [
+    {
+      "src": "/json/stats.json",
+      "dest": "https://server.003535.xyz/json/stats.json"
+    },
+    {
+      "src": "/detail",
+      "dest": "https://server.003535.xyz/detail"
+    },
+    {
+      "src": "/map",
+      "dest": "https://server.003535.xyz/map"
+    },
+    {
+      "src": "/i",
+      "dest": "https://server.003535.xyz/i"
+    }
+  ]
+}
